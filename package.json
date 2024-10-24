@@ -1,0 +1,15 @@
+{
+  "name": "criptografia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testando_bcrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofia",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1"
+  }
+}
